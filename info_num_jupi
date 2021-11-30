@@ -1,0 +1,33 @@
+Numpy is a python library and it is written partially in python and rest in c,c++  (require fast computation)
+used for work with arrays
+
+Numpy arrays are stored in continuous place in memory unlike lists , hence efficient processing . this behaviour is called locality of reference
+in CS
+
+#GITHUB enables many people to work on same coadbase
+
+
+
+why use numpy
+
+Numpy provides efficient storage
+it also provides better ways of handling data for processing
+it is fast
+it is easy to learn
+Numpy uses relatively less memory of storage  data
+
+
+JUPYTER NOTEBOOK
+
+The jupyter notebook is an open source web application that allows you to create and share docs. that contain live code, equations , visuals and narrative
+
+the notebook has support over 40 prog. languages
+
+notebook can be shared with others using email
+
+you can produce rich interactive code output : HTML , images videos etc.
+
+
+
+
+

@@ -1,0 +1,3 @@
+for loop ke sath else lagta hai
+but vo else tabhi execute hota hai jab for loop sucessfully end hota hai
+yadi for loop break hota hai , aur vo sucessfully (completely) run nahi ho pata to else nahi chalega

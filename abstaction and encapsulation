@@ -1,0 +1,6 @@
+in python abstraction means divide in parts
+for  eg i have to make problem containing several objects so i divided the whole program into different classes
+this is abstraction
+
+encapsulation means ,if we are using a program but doesn't know about the working so the program is encapsulated for us
+basically the encapsulation means that to hide the logic details

@@ -1,0 +1,10 @@
+polymorphism is a concept which means ,abbility to take various forms
+ lets take  an ex
+
+ print(5+6)
+ gives me 11
+ print('5'+"6")
+ gives me 56
+
+
+this is polymorphism ,taking various forms after some modification
